@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.13-blue)
 ![fastai](https://img.shields.io/badge/fastai-2.8-orange)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ab6/pottery-classifier)
-![License](https://img.shields.io/badge/license-TBD-lightgrey)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 An image classifier that identifies the type of a pottery piece (bowl, jug, mug, plate, saucer, or teapot) from a photo, plus a small Voilà web app for trying it on your own images.
 
@@ -105,6 +105,7 @@ potteryClassifier/
 ├── uv.lock                     # Locked dependency versions
 ├── .python-version             # Python version pin (3.13)
 ├── .gitignore
+├── LICENSE                     # MIT License
 └── README.md
 ```
 
@@ -159,6 +160,6 @@ Evaluation also included:
 
 ## License
 
-_TODO: choose a license for the code (e.g., MIT) and add a `LICENSE` file._
+The code in this repository is released under the [MIT License](LICENSE).
 
 _TODO: state the license or usage terms for the images in `data/`._
